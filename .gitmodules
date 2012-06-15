@@ -1,0 +1,3 @@
+[submodule "music21"]
+	path = music21
+	url = git@github.com:puzzlet/music21.git
